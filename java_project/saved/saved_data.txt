@@ -1,0 +1,36 @@
+
+Information about book borrow.
+Patron's information: 
+Id: 1001
+Name: Md.rasel
+Department name: CSe
+Email address: rasel@
+Contact NO: 0176722
+Address :tkg
+Current amount :500.0
+Books's information: 
+Id: 301
+Title: java
+Author name: seildt
+Publisher name: abc
+Price : 600.0
+Number of copy :29
+
+
+Information about book return.
+Patron's information: 
+Id: 1001
+Name: Md.rasel
+Department name: CSe
+Email address: rasel@
+Contact NO: 0176722
+Address :tkg
+Current amount :500.0
+Books's information: 
+Id: 302
+Title: chemistry
+Author name: hazari
+Publisher name: abs
+Price : 200.0
+Number of copy :31
+
